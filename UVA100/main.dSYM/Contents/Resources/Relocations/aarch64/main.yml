@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/felix/Felix/Professional/Project/CPE/CPE10400/main'
+relocations:     []
+...
